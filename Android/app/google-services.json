@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116256154723",
+    "project_id": "batch-97-forum",
+    "storage_bucket": "batch-97-forum.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116256154723:android:766ee0d86ec356b6efc456",
+        "android_client_info": {
+          "package_name": "com.example.batch_97_forum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-V26-Fpw2eIKc3dRlNs5My16SzdiMESs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
