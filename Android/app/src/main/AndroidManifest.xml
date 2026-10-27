@@ -1,10 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="batch_97_forum"
+        android:label="batch_97-forum"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
-        
-        <!-- Fixed Android v1 embedding issue for Codemagic build -->
+
+        <!-- Fixed Android v1 embedding issue for Codemagic fresh build -->
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
@@ -15,7 +15,6 @@
             android:launchMode="singleTop"
             android:theme="@style/LaunchTheme"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-            android:hardwareAccelerated="true"
             android:windowSoftInputMode="adjustResize">
             <meta-data
               android:name="io.flutter.embedding.android.NormalTheme"
